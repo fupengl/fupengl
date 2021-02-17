@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="half">
-  <a href="https://github.com/fulengl">
+<div>
+  <a href="https://github.com/fupengl">
     <img src="https://github-readme-stats.vercel.app/api?username=fupengl&include_all_commits=true&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/fulengl">
+</div>
+<div>
+  <a href="https://github.com/fupengl">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fupengl&show_icons=true&theme=radical&layout=compact" />
   </a>
 </div>
